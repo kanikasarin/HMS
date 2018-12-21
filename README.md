@@ -1,5 +1,5 @@
 # HMS
-Introduction :
+About Hospital Management System:
 The project Hospital Management system includes admission of patients, storing their information into the system, and also computerized billing in the pharmacy. The software has  the facility to give a unique id for every patient and stores the details of every patient and the doctors .It includes the details of room occupancy  in hospital . 
 The Hospital Management System can be entered using a username and password. It  is accessible by an administrator. Only they can add data into the database.The data can be retrieved easily. The interface is very user-friendly. Hospital Management System is designed for multispeciality hospitals, to cover a wide range of hospital administration and management processes. It is an integrated end-to-end Hospital Management System that provides relevant information across the hospital to support effective decision making for patient care, hospital administration and critical financial accounting.
 Objective:
@@ -15,4 +15,6 @@ Objective:
 Softwares Used: 
 •	Java jdk 8 (front end) 
 •	MySql (backend)
+
+
  Run Runnable jar file with a folder of images.   
